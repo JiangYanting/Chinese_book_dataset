@@ -17,14 +17,14 @@
     
     只含一个分类号的图书数量统计如下图所示：
   
-    https://github.com/JiangYanting/Chinese_book_dataset/blob/master/%E5%8D%95%E4%B8%80%E7%B1%BB%E5%88%AB%E7%9A%84%E5%9B%BE%E4%B9%A6%E6%95%B0%E9%87%8F%E7%BB%9F%E8%AE%A1.jpg
+![image](https://github.com/JiangYanting/Chinese_book_dataset/blob/master/%E5%8D%95%E4%B8%80%E7%B1%BB%E5%88%AB%E7%9A%84%E5%9B%BE%E4%B9%A6%E6%95%B0%E9%87%8F%E7%BB%9F%E8%AE%A1.jpg)
     
   
   
   
   ### 4.用途
   
-    可用于数据挖掘、数据分析、文献计量学、文本分类、图书情报研究与应用等领域。
+    可用于数据挖掘、数据分析、自然语言处理、文献计量学、文本分类、图书情报研究与应用等领域。
   
   ### 注1：图书分类的标准
   
