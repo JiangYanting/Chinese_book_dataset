@@ -17,7 +17,7 @@
     
     只含一个分类号的图书数量统计如下图所示：
   
-![图书统计](https://github.com/JiangYanting/Chinese_book_dataset/blob/master/%E5%8D%95%E4%B8%80%E7%B1%BB%E5%88%AB%E7%9A%84%E5%9B%BE%E4%B9%A6%E6%95%B0%E9%87%8F%E7%BB%9F%E8%AE%A1.jpg)
+![图书统计](https://github.com/JiangYanting/Chinese_book_dataset/blob/master/picture/%E5%8D%95%E7%B1%BB%E5%88%AB%E7%9A%84%E5%9B%BE%E4%B9%A6%E6%95%B0%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
     
   
   
