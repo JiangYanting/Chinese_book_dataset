@@ -46,7 +46,5 @@
 
 ## 下载地址
 
-链接：https://pan.baidu.com/s/1vkJV_mUPs6xjTw3tEWKd1A 
-
-提取码：bmjw
+请邮件联系jiangyanting@mail.bnu.edu.cn，或加qq号:540980735，或加微信号jyt629000获取。
 
