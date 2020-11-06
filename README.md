@@ -5,7 +5,8 @@
 若在科研论文、项目工程中使用了该数据集，欢迎引用：
 
 
-> 蒋彦廷，胡韧奋. 基于BERT模型的图书表示学习与多标签分类研究[J]. 新世纪图书馆（图书馆学情报学CSSCI来源刊物），2020（已录用，待刊）.
+> 蒋彦廷，胡韧奋. 基于BERT模型的图书表示学习与多标签分类研究[J]. 新世纪图书馆（图书馆学情报学CSSCI来源刊物），2020年第9期，第38-44页.
+> Jiang Yanting, Hu Renfen. Representation Learning and Multi-label Classifcation of Books Based on BERT[J], New Century Library, 2020(9), 38-44.
 
 
 ## 一个广泛搜集爬取的中文图书分类数据集
