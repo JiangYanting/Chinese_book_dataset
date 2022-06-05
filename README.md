@@ -50,3 +50,9 @@
 
 请邮件联系3225357264@qq.com，或加qq号:3225357264，或加微信号jyt629000获取。
 
+## 2022-6-5 更新update
+
+设计开发了针对英文文献智能分类与推荐的小程序，Windows环境下下载即可使用：
+
+https://github.com/JiangYanting/English_books_classification_Program
+
