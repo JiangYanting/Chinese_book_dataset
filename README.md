@@ -5,10 +5,13 @@
 若在科研论文、项目工程中使用了该数据集，欢迎引用：
 
 
-> 蒋彦廷，胡韧奋. 基于BERT模型的图书表示学习与多标签分类研究[J]. 新世纪图书馆（图书馆学情报学CSSCI来源刊物），2020年第9期，第38-44页.
+> 蒋彦廷，胡韧奋. 基于BERT模型的图书表示学习与多标签分类研究[J]. 新世纪图书馆（CSSCI扩展版），2020年第9期，第38-44页.
 
 > Jiang Yanting, Hu Renfen. Representation Learning and Multi-label Classifcation of Books Based on BERT[J], New Century Library, 2020(9), 38-44.
 
+> 蒋彦廷，吴钰洁. 英文文献的《中图法》分类号自动标注研究——基于文本增强与类目映射策略[J].数字图书馆论坛(CSSCI扩展版)，2022（5）：39-46.
+
+> Jiang Yanting, Wu Yujie. Research on Automatic Chinese Library Classification Labeling for English Literature based on Text Data Augmentation and Classification Mapping Strategies[J]. Digital Library Forum, 2020(5): 39-46.
 
 ## 一个广泛搜集爬取的中文图书分类数据集
 
