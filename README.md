@@ -4,7 +4,7 @@
 
 若在科研论文、项目工程中使用了该数据集，欢迎引用：
 
-> 蒋彦廷. 蒋彦廷. 依据《中国图书馆分类法》的英文图书分类探索[J]. 北京大学学报（自然科学版）, 2023, 59(1): 11-20.
+> 蒋彦廷. 依据《中国图书馆分类法》的英文图书分类探索[J]. 北京大学学报（自然科学版）, 2023, 59(1): 11-20.
 
 > JIANG Yanting. English Books Automatic Classification According to CLC[J]. Acta Scientiarum Naturalium Universitatis Pekinensis, 2023, 59(1): 11-20.
 
