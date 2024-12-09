@@ -2,16 +2,6 @@
 中文图书分类数据集/自然语言处理/中国图书分类法/图书情报学/数据挖掘/文本分类/
 
 
-若在科研论文、项目工程中使用了该数据集，欢迎引用：
-
-> 蒋彦廷. 依据《中国图书馆分类法》的英文图书分类探索[J]. 北京大学学报（自然科学版）, 2023, 59(1): 11-20.
-
-> JIANG Yanting. English Books Automatic Classification According to CLC[J]. Acta Scientiarum Naturalium Universitatis Pekinensis, 2023, 59(1): 11-20.
-
-> 蒋彦廷，吴钰洁. 英文文献的《中图法》分类号自动标注研究——基于文本增强与类目映射策略[J].数字图书馆论坛(CSSCI扩展版)，2022（5）：39-46.
-
-> Jiang Yanting, Wu Yujie. Research on Automatic Chinese Library Classification Labeling for English Literature based on Text Data Augmentation and Classification Mapping Strategies[J]. Digital Library Forum, 2020(5): 39-46.
-
 ## 一个广泛搜集爬取的中文图书分类数据集
 
   ### 1.简介
